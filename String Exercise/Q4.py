@@ -15,7 +15,7 @@ def lowerFirst(s1):
   
 lowerFirst("PyNaTive")
 
-#Given Solution
+#Given Solution * ''.join(list1+list2)
 inputStr = "PyNaTive"
 words = inputStr.split()
 lower = []
