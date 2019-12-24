@@ -1,4 +1,4 @@
-#Random Lottery Pick
+#Random Lottery Pick!
 
 #My Solution
 import random
